@@ -1,0 +1,79 @@
+HI
+Hello
+Can you tell me what is wrong ?
+tHE ROBOT COULD NOT initialize
+Oke. I had searched in the error files but there isn't a message
+Can you retry it please?
+Sure
+Can you tell me what is happen now?
+What is your name?
+Lydia
+
+I have restarted the robot
+but as you can see, it is not initializing
+an error message did not appear as well
+so I am puzzled how to resolve this issue
+
+What is changed after the latest run when it was working?
+
+And, is the robot in auto mode?
+Yes
+Oke.
+What is changed after the latest run when it was working?
+My collegue informed me that while she was running the robot, it keep running sqc, so she prompt it to stop but it could not stop, so I assume she forcibly stop it by auto-kill the program
+After that she could not restart it
+
+Oke. can you explain me what is sqc?
+standard quality check
+we run a standard oil to check that it pass the parameters that was set for our oil sample
+
+Oke. is the robot stopt in a strange position? 
+No
+Is it possible to let me see it? I think, there is a camera
+the camera was removed
+can i take apicture and send it to you via email?
+
+Oke. my email is rob.de.wit@synchronlab.com
+I'll wait for it now
+I've already send you the picture
+I've seen the picture. I think you must try to push the robot 10 cm to above and 10 cm to the side where the bath is missing
+I'll try
+ok
+we already tried. but its rather hard to push it
+
+I mean, by hand. You must change the teach pandend into hand and moving the robot. Isn't that possible?
+elaborate more on the teach pandend
+
+On the teach pendant, there is a key. You can change the robot in hand or auto mode
+
+Are you trained by us to do that king of things?
+No 
+the trained personnel have left
+we already change by hand, the robot is still stiff to move
+strange.
+
+When did the robot work fine?
+Till last saturday
+
+Oke. mayby there is a big problem because when we had contact on march, the batteries from the robot are empty. I'd send your colleque a quotation about that
+But, I'm not sure that's the problem for now
+
+When you change the robot in hand, is it absolutely impossible to move it?
+Yes
+
+Than I think, the only opportuny is that I come to Singapore to solve the problem
+
+Could you send me an email of the service charges? I need to get my superior to be informed regarding this before you come to Singapore.
+You can send the email to my company email at zulydia.hussin@intertek.com
+
+Oke, Of course I can do.
+Thank you for the help.
+
+You're welcome.
+
+Kind regards,
+
+Rob
+
+
+2103
